@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi 👋 I'm Berkay</h1>
+  <h1>Hi 👋 </h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ED8B00&vCenter=true&lines=Backend+Developer;Building+Scalable+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ED8B00&center=true&vCenter=true&width=400&lines=Backend+Developer;Building+Scalable+APIs" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,16 +17,13 @@ I'm a Backend Developer focused on writing clean code, solving algorithmic chall
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks** <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) 
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
@@ -36,7 +33,7 @@ I'm a Backend Developer focused on writing clean code, solving algorithmic chall
 
 <br>
 
-### 📫 Let's Connect
+### 📫 Contact
 
 [![Website](https://img.shields.io/badge/Website-berkayaytekin.com-25A162?style=for-the-badge&logo=globe&logoColor=white)](https://berkayaytekin.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkay-aytekin/)
