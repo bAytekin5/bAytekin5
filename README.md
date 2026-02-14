@@ -27,6 +27,7 @@ I'm a Backend Developer focused on writing clean code, solving algorithmic chall
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![JUnit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) 
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-171E21?style=for-the-badge)
@@ -35,6 +36,6 @@ I'm a Backend Developer focused on writing clean code, solving algorithmic chall
 
 ### 📫 Contact
 
-[![Website](https://img.shields.io/badge/Website-berkayaytekin.com-25A162?style=for-the-badge&logo=globe&logoColor=white)](https://berkayaytekin.com/)
+[![Website](https://img.shields.io/badge/Website-25A162?style=for-the-badge&logo=globe&logoColor=white)](https://berkayaytekin.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkay-aytekin/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berkayaytkn@gmail.com)
